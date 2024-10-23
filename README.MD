@@ -1,6 +1,6 @@
 # Leetcode - 91. Decode Ways - Dynamic Programming Solution
 
-![alt text](https://github.com/dokawa/leetcode-91/image/blob/master/decode_ways_results.png?raw=true)
+![alt text](https://github.com/dokawa/leetcode-91/blob/master/image/decode_ways_results.png?raw=true)
 
 
 # Problem
